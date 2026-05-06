@@ -1,0 +1,14 @@
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\controller\TicketController.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\repository\AppUserRepository.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\config\SecurityConfig.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\HelpdeskApplication.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\service\UserAccountService.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\controller\AdminReportController.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\model\Ticket.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\controller\LoginController.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\model\TicketComment.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\repository\TicketRepository.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\repository\TicketCommentRepository.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\service\TicketService.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\model\AppUser.java
+C:\Users\it\IdeaProjects\helpdesk-secured\src\main\java\com\helpdesk\controller\AdminUserController.java
